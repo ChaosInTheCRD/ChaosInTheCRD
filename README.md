@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChaosInTheCRD <- yes, this is a Kubernetes play on words 🤦‍♀️ [see here](rb.gy/t1oal2)
+- 👋 Hi, I’m @ChaosInTheCRD <- yes, this is a Kubernetes play on words 🤦‍♀️ [see here](https://rb.gy/t1oal2)
 - 👀 I’m interested in music, running and making computers do cool things 🪄
 - 🌱 I’m currently learning everything, always learning
 - 💞️ I’m looking to collaborate on Go projects
